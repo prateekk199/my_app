@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly_express as px
 
-
+print("my name is prateek kumar")
 # DB Management
 import sqlite3 
 conn = sqlite3.connect('data.db')
