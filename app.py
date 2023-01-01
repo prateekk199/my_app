@@ -20,7 +20,7 @@ def mainprog():
 
 
 
-    # st.title("Advance Data Visualization App")
+    # st.title("Advance Data Visualization prateek App")
     st.subheader("Welcome User")
     # Add a sidebar
     st.sidebar.subheader("Visualization Settings")
